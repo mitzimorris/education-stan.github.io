@@ -4,7 +4,7 @@ title: Education research using Stan
 excerpt: ""
 modified: 
 image:
-  feature: feature/WeChatImage_20180425200607.png
+  feature: feature/ucbgse.png
   credit: 
   creditlink: 
 ---
