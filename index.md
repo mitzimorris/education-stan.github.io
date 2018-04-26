@@ -4,7 +4,7 @@ title: Education research using Stan
 excerpt: ""
 modified: 
 image:
-  feature: feature/logo_berk_gse3lines.jpg
+  feature: feature/University_of_California,_Berkeley_Graduate_School_of_Education_Logo.jpg
   credit: 
   creditlink: 
 ---
