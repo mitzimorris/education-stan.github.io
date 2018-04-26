@@ -44,19 +44,14 @@ image:
 <ul>
 <li><p><small>Ames, A. J., & Au, C. H. (2018). Using Stan for Item Response Theory Models. Measurement: Interdisciplinary Research and Perspectives, 16(2), 129-134. </small></p></li>
 
-<ul>
 <li><p><small>Luo, Y., & Al-Harbi, K. (2017). Performances of LOO and WAIC as IRT model selection methods. Psychological Test and Assessment Modeling, 59(2), 183-205. </small></p></li>
 
-<ul>
 <li><p><small>Luo, Y., & Jiao, H. (2017). Using the Stan Program for Bayesian Item Response Theory. Educational and Psychological Measurement. 77, 1–25. </small></p></li>
 
-<ul>
 <li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2016). Fitting Bayesian item response models in Stata and Stan. arXiv preprint arXiv:1601.03443. In press. </small></p></li>
 
-<li>
-<p><small>
-Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.
-</small></p></li></ul>
+<li><p><small>
+Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.</small></p></li></ul>
 </details>
 
 <details>
@@ -68,8 +63,8 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <ul>
 <li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </small></p></li>
 
-<li>
-<p><small> Tan, J. Y. C. (2013). <A href="http://hdl.handle.net/2440/83277">Mathematical modelling and statistical analysis of school-based student performance data</A> (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li></ul>
+<li><p><small> Tan, J. Y. C. (2013). <A href="http://hdl.handle.net/2440/83277">Mathematical modelling and statistical analysis of school-based student performance data</A> (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li>
+</ul>
 
 
 </details>
