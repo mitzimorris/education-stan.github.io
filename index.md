@@ -4,7 +4,7 @@ title: Education research using Stan
 excerpt: ""
 modified: 
 image:
-  feature: feature/wide_ensemble.png
+  feature: feature/logo_berk_gse3lines.jpg
   credit: 
   creditlink: 
 ---
