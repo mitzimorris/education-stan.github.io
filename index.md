@@ -48,7 +48,7 @@ image:
 
 <li><p><small>Luo, Y., & Jiao, H. (2017). Using the Stan Program for Bayesian Item Response Theory. Educational and Psychological Measurement. 77, 1–25. </small></p></li>
 
-<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2016). Fitting Bayesian item response models in Stata and Stan. arXiv preprint arXiv:1601.03443. In press. </small></p></li>
+<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2017). Fitting Bayesian item response models in Stata and Stan. The Stata Journal, 17(2), 343-357. </small></p></li>
 
 <li><p><small>
 Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.</small></p></li></ul>
