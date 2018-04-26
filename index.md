@@ -57,10 +57,8 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <details>
 <summary>Education-related publications using Stan</summary>
 
-<li>
-<p><small> Pan, Y. (2016). <A href="https://academiccommons.columbia.edu/catalog/ac:202821">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> (Doctoral dissertation). Columbia University </small></p></li></ul>
-
 <ul>
+<li><p><small> Pan, Y. (2016). <A href="https://academiccommons.columbia.edu/catalog/ac:202821">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> (Doctoral dissertation). Columbia University </small></p></li>
 <li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </small></p></li>
 
 <li><p><small> Tan, J. Y. C. (2013). <A href="http://hdl.handle.net/2440/83277">Mathematical modelling and statistical analysis of school-based student performance data</A> (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li>
@@ -74,7 +72,10 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <summary>Books</summary>
 
 <ul>
-<li><p><small> McElreath, R. (2016). <A href="http://xcelab.net/rm/statistical-rethinking/">Statistical rethinking: A Bayesian course with examples in R and Stan</A> (Vol. 122). CRC Press. </small></p></li>
+<li><p><small> McElreath, R. (2016). <A href="http://xcelab.net/rm/statistical-rethinking/">Statistical rethinking: A Bayesian course with examples in R and Stan</A> (Vol. 122). CRC Press. </small></p></li>  
+  
+<li><p><small> Kruschke, J. (2014). <A href="https://www.elsevier.com/books/doing-bayesian-data-analysis/kruschke/978-0-12-405888-0">Kruschke, J. (2014). Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan. Academic Press. </small></p></li>
+  
 </ul>
 
 </details>
