@@ -29,6 +29,10 @@ image:
 
 # R packages
 * [edstan: Stan Models for Item Response Theory](https://cran.rstudio.com/web/packages/edstan/)
+* [idealstan: Ideal Point Models Using Stan](https://github.com/saudiwin/idealstan)
+* [rstantools: Tools for Developing R Packages Interfacing with Stan](https://cran.r-project.org/web/packages/rstantools/index.html)
+* [brms: Bayesian Regression Models Using Stan](https://cran.r-project.org/web/packages/brms/index.html)
+* [blavaan: Bayesian Structural Equation Models Using Stan](https://faculty.missouri.edu/~merklee/blavaan/)
 * [rstanarm: Bayesian Applied Regression Modeling via Stan](https://cran.rstudio.com/web/packages/rstanarm/)
   * [Webinar "Introduction to Bayesian Computation Using the rstanarm Package"](https://youtu.be/z7zOzL9Rrzs)
 * [rethinking: Statistical Rethinking course and book package](https://github.com/rmcelreath/rethinking)
