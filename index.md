@@ -49,16 +49,16 @@ a:link {
 <summary>Education-related publications on Stan</summary>
   
 <ul>
-<li><p><small>Ames, A. J., & Au, C. H. (2018). Using Stan for Item Response Theory Models. Measurement: Interdisciplinary Research and Perspectives, 16(2), 129-134. </small></p></li>
+<li><p><small>Ames, A. J., & Au, C. H. (2018).  <A href="https://www.tandfonline.com/doi/full/10.1080/15366367.2018.1437304">Using Stan for Item Response Theory Models. Measurement: Interdisciplinary Research and Perspectives, 16(2), 129-134. </small></p></li>
 
-<li><p><small>Luo, Y., & Al-Harbi, K. (2017). Performances of LOO and WAIC as IRT model selection methods. Psychological Test and Assessment Modeling, 59(2), 183-205. </small></p></li>
+<li><p><small>Luo, Y., & Al-Harbi, K. (2017). <A href="http://www.psychologie-aktuell.com/fileadmin/download/ptam/2-2017_20170627/03_Luo_.pdf">Performances of LOO and WAIC as IRT model selection methods. Psychological Test and Assessment Modeling, 59(2), 183-205. </small></p></li>
 
-<li><p><small>Luo, Y., & Jiao, H. (2017). Using the Stan Program for Bayesian Item Response Theory. Educational and Psychological Measurement. 77, 1–25. </small></p></li>
+<li><p><small>Luo, Y., & Jiao, H. (2017). <A href="http://journals.sagepub.com/doi/abs/10.1177/0013164417693666">Using the Stan Program for Bayesian Item Response Theory. Educational and Psychological Measurement. 77, 1–25. </small></p></li>
 
-<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2017). Fitting Bayesian item response models in Stata and Stan. The Stata Journal, 17(2), 343-357. </small></p></li>
+<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2017). <A href="https://www.stata-journal.com/article.html?article=st0477">Fitting Bayesian item response models in Stata and Stan. The Stata Journal, 17(2), 343-357. </small></p></li>
 
 <li><p><small>
-Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.</small></p></li></ul>
+Gelman, A., Lee, D., & Guo, J. (2015). <A href="http://journals.sagepub.com/doi/10.3102/1076998615606113">Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.</small></p></li></ul>
 
 <summary>Education-related publications using Stan</summary>
 
