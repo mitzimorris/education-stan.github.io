@@ -58,6 +58,8 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <summary>Education-related publications using Stan</summary>
 
 <ul>
+<li><p><small> Merkle, E., Furr, D. and Rabe-Hesketh, S.  <A href="https://arxiv.org/abs/1802.04452
+">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> Bayesian model assessment: Use of conditional vs marginal likelihoods.</small></p></li>
 <li><p><small> Pan, Y. (2016). <A href="https://academiccommons.columbia.edu/catalog/ac:202821">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> (Doctoral dissertation). Columbia University </small></p></li>
 <li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </small></p></li>
 
