@@ -64,7 +64,7 @@ Gelman, A., Lee, D., & Guo, J. (2015). <A href="http://journals.sagepub.com/doi/
 
 <ul>
 <li><p><small> Merkle, E., Furr, D. and Rabe-Hesketh, S.  <A href="https://arxiv.org/abs/1802.04452
-">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> Bayesian model assessment: Use of conditional vs marginal likelihoods.</A></small></p></li>
+">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education Bayesian model assessment: Use of conditional vs marginal likelihoods.</A></small></p></li>
   
 <li><p><small> Pan, Y. (2016). <A href="https://academiccommons.columbia.edu/catalog/ac:202821">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> (Doctoral dissertation). Columbia University </small></p></li>
   
