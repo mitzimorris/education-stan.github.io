@@ -9,6 +9,9 @@ image:
   creditlink: 
 ---
 
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
+
+
 # Tutorials
 * [Two-Parameter Logistic Item Response Model](http://mc-stan.org/users/documentation/case-studies/tutorial_twopl.html) &nbsp; <small>[_(Abstract)_](http://mc-stan.org/users/documentation/case-studies.html#two-parameter-logistic-item-response-model)</small>
 
