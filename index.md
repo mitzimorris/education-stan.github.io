@@ -4,7 +4,7 @@ title: Education research using Stan
 excerpt: ""
 modified: 
 image:
-  feature: 
+  feature: feature/ucbgse.png
   credit: 
   creditlink: 
 ---
