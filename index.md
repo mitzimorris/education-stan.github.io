@@ -45,7 +45,7 @@ a:link {
 * [rethinking: Statistical Rethinking course and book package](https://github.com/rmcelreath/rethinking)
 
 # Publications
-<details>
+
 <summary>Education-related publications on Stan</summary>
   
 <ul>
@@ -59,9 +59,7 @@ a:link {
 
 <li><p><small>
 Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.</small></p></li></ul>
-</details>
 
-<details>
 <summary>Education-related publications using Stan</summary>
 
 <ul>
@@ -76,10 +74,8 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 </ul>
 
 
-</details>
 
 
-<details>
 <summary>Books</summary>
 
 <ul>
@@ -89,6 +85,5 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
   
 </ul>
 
-</details>
 
 <small>If you know further publications, please contact Sophia Rabe-Hesketh [(sophiarh@berkeley.edu)](mailto:sophiarh@berkeley.edu).</small>
