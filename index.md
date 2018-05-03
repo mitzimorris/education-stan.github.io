@@ -13,6 +13,7 @@ image:
 a:link {
     color: blue;
 }
+
 </style>
 
 # Tutorials
@@ -66,7 +67,9 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <ul>
 <li><p><small> Merkle, E., Furr, D. and Rabe-Hesketh, S.  <A href="https://arxiv.org/abs/1802.04452
 ">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> Bayesian model assessment: Use of conditional vs marginal likelihoods.</small></p></li>
+  
 <li><p><small> Pan, Y. (2016). <A href="https://academiccommons.columbia.edu/catalog/ac:202821">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> (Doctoral dissertation). Columbia University </small></p></li>
+  
 <li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </small></p></li>
 
 <li><p><small> Tan, J. Y. C. (2013). <A href="http://hdl.handle.net/2440/83277">Mathematical modelling and statistical analysis of school-based student performance data</A> (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li>
