@@ -85,4 +85,5 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 ---
 
 <img src="logo-ucberkeley.png" alt="https://www.berkeley.edu/" style="width:500px;height:200px;">
+
 <img src="ies.png" alt="https://ies.ed.gov/" style="width:500px;height:200px;">
