@@ -8,7 +8,12 @@ image:
   credit: 
   creditlink: 
 ---
-
+<style>
+/* unvisited link */
+a:link {
+    color: blue;
+}
+</style>
 
 # Tutorials
 * [Two-Parameter Logistic Item Response Model](http://mc-stan.org/users/documentation/case-studies/tutorial_twopl.html) &nbsp; <small>[_(Abstract)_](http://mc-stan.org/users/documentation/case-studies.html#two-parameter-logistic-item-response-model)</small>
