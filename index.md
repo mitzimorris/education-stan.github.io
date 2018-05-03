@@ -8,6 +8,9 @@ image:
   credit: 
   creditlink: 
 ---
+a:link {
+    color: blue;
+}
 
 # Tutorials
 * [Two-Parameter Logistic Item Response Model](http://mc-stan.org/users/documentation/case-studies/tutorial_twopl.html) &nbsp; <small>[_(Abstract)_](http://mc-stan.org/users/documentation/case-studies.html#two-parameter-logistic-item-response-model)</small>
@@ -83,9 +86,3 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 </details>
 
 <small>If you know further publications, please contact Sophia Rabe-Hesketh [(sophiarh@berkeley.edu)](mailto:sophiarh@berkeley.edu).</small>
-
----
-
-
-<img src="ucberkeley.png" alt="https://www.berkeley.edu/" style="width:500px;height:250px;">
-<img src="ies.png" alt="https://ies.ed.gov/" style="width:500px;height:200px;">
