@@ -68,7 +68,7 @@ Gelman, A., Lee, D., & Guo, J. (2015). <A href="http://journals.sagepub.com/doi/
   
 <li><p><small> Pan, Y. (2016). <A href="https://academiccommons.columbia.edu/catalog/ac:202821">Essays on Applying Bayesian Data Analysis to Improve Evidence-based Decision-making in Education</A> (Doctoral dissertation). Columbia University </small></p></li>
   
-<li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </A></small></p></li>
+<li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). <A href="https://www.ncbi.nlm.nih.gov/pubmed/27125161">Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </A></small></p></li>
 
 <li><p><small> Tan, J. Y. C. (2013). <A href="http://hdl.handle.net/2440/83277">Mathematical modelling and statistical analysis of school-based student performance data</A> (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li>
 </ul>
