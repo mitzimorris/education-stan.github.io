@@ -79,6 +79,8 @@ Gelman, A., Lee, D., & Guo, J. (2015). <A href="http://journals.sagepub.com/doi/
 <summary>Books</summary>
 
 <ul>
+<li><p><small> Lambert, B. (2018). <A href="https://us.sagepub.com/en-us/nam/a-student%E2%80%99s-guide-to-bayesian-statistics/book245409">A Student’s Guide to Bayesian Statistics</A> Sage Press. </small></p></li>  
+  
 <li><p><small> McElreath, R. (2016). <A href="http://xcelab.net/rm/statistical-rethinking/">Statistical rethinking: A Bayesian course with examples in R and Stan</A> (Vol. 122). CRC Press. </small></p></li>  
   
 <li><p><small> Kruschke, J. (2014). <A href="https://www.elsevier.com/books/doing-bayesian-data-analysis/kruschke/978-0-12-405888-0">Kruschke, J. (2014). Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan.</A> Academic Press. </small></p></li>
